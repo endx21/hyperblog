@@ -1,1 +1,3 @@
 hola soy endryx.txt
+
+estoy practicando cambios con git
