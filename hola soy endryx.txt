@@ -1,5 +1,5 @@
 hola soy endryx.txt
 
-estoy practicando cambios con git
+estoy practicando cambios con git y github
 
-practico en mis guardias
+practico en todas mis guardias y en mis dias libres tambien
